@@ -1,0 +1,10 @@
+Em alusão às corretas formas de escrita de nomes de pacotes, classes, objetos, métodos, variáveis, constantes, atributos e parâmetros em Java,
+têm-se que:
+1 - Nome de pacotes: devem estar tudo minúsculo.
+2 - Nome de classe: devem estar em PascalCase.
+3 - Nome de objetos: devem estar em camelCase.
+4 - Nome de métodos: devem estar em camelCase.
+5 - Nome de variáveis: devem estar em camelCase.
+6 - Nome de constantes: devem estar em SNAKE_CASE_CAPS.
+7 - Nome de atributos: devem estar em camelCase.
+8 - Nome de parâmetros: devem estar em camelCase.
