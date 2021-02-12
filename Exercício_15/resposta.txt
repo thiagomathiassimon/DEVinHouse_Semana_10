@@ -1,0 +1,9 @@
+Afirmações:
+(a) O comando “continue” dentro de um loop “while” faz com que o controle seja passado para o próximo bloco de código após o loop.
+(b) O comando return pode ser utilizado dentro de loops. 
+(c) O comando “break” dentro de um loop “while” faz com que o controle seja passado para a próxima iteração do loop.
+
+Marcando as afirmações como verdadeiras ou falsas, ter-se-á:
+  a - Falsa;
+  b - Falsa; e
+  c - Falsa.
